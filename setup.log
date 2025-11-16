@@ -1,0 +1,7 @@
+[0;34m[2025-11-16 12:06:27][INFO][0m creating virtual environment
+[0;32m[2025-11-16 12:06:31][SUCCESS][0m virtual environment created
+[0;34m[2025-11-16 12:06:31][INFO][0m upgrading pip inside the virtual environment
+[0;34m[2025-11-16 12:06:34][INFO][0m pip has been upgraded
+[0;34m[2025-11-16 12:06:34][INFO][0m lets create a gitignore file
+[0;32m[2025-11-16 12:06:34][SUCCESS][0m gitignore successfully created
+[0;34m[2025-11-16 12:06:35][INFO][0m the setup is complete
