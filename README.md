@@ -11,10 +11,10 @@ these helps the whole team save time by over 95% , when the script is executed o
   *installing the necessary requirement for the project
 
 #example output
-![bash output terminal](bashscript.png)
+![bash output terminal](bashcript/bashscript.png)
 
 #challenges faced
  -learning how to layer my functions to ensure reliability was difficult at first
 
- #lessons learned 
+#lessons learned 
   -how to break down one difficult problems in little steps to solve a problem
